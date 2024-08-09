@@ -42,8 +42,7 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     color: red;
     font-weight: bolder;
-    font-size: x-large;
-    text-shadow: 0px 0px 3px #ffffff, -1px -1px #ffffff, 1px 1px #ffffff;
+    font-size: xx-large;
 }
 
 input {
@@ -51,14 +50,14 @@ input {
     line-height: 2em;
     margin-bottom: 1%;
     border: black 5px solid;
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 button {
     background-color: lightblue;
     width: 140px;
     height: 40px;
-    font-size: large;
+    font-size: x-large;
     cursor: pointer;
     border: black 2px solid;
     margin-bottom: 10px;
